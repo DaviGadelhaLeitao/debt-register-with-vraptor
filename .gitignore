@@ -1,3 +1,17 @@
+# map files
+*.map
+
+# Eclipse configuration files
+.project
+.settings
+.classpath
+.gradle
+.sass-cache
+*.swp
+
+# Build directory
+/target
+
 *.class
 
 # Mobile Tools for Java (J2ME)
